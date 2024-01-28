@@ -55,7 +55,11 @@ Password: password
 8.	For the bin monitoring module feature to activate, kindly wait for at least a few minutes since the module has to read that the bin should exceed 10 meters from its original position.
 
 ## Developer Contact
-For inquiries, kindly contact at: [ajcruto@gmail.com]
+For inquiries, kindly contact at: 
+[andreajoy.cruto@cvsu.edu.ph]
+[dianne.ermino@cvsu.edu.ph]
+[johnpaul.ramos@cvsu.edu.ph]
+[karlingrame.rivas@cvsu.edu.ph]
 
 ## Disclaimer!
 This project is created solely for academic purposes. Open for contributions. Not for commercial use. 
