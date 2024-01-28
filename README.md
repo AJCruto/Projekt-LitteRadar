@@ -1,4 +1,4 @@
-
+![Alt text](Projekt LitteRadar App Source Code/assets/images/litteradar-logo.png)
 
 ## Description
 
