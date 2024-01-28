@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "ProjektLitteradar",
+    "slug": "ProjektLitteradar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.projektlitteradar.myapp",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDtcq6LsyKsuiR85ruTFhn6lbnbbxkCiQc"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "prodUrl": "https://litteradar.bucocu.net",
+      "appUrl": "https://litteradar.bucocu.net",
+      "testUrlHolder": "http://10.0.2.2:8000",
+      "eas": {
+        "projectId": "29d9fad6-e92d-462b-842d-69797c6d15d9"
+      }
+    }
+  }
+}
