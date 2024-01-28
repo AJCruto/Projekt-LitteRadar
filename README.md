@@ -1,4 +1,4 @@
-![Alt text](Projekt LitteRadar App Source Code/assets/images/litteradar-logo.png)
+![PROJEKT LITTERADAR LOGO](https://github.com/AJCruto/Projekt-LitteRadar/blob/main/Projekt%20LitteRadar%20App%20Source%20Code/assets/images/litteradar-logo.png)
 
 ## Description
 
